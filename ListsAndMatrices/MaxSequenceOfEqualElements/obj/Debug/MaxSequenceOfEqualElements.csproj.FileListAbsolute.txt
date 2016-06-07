@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

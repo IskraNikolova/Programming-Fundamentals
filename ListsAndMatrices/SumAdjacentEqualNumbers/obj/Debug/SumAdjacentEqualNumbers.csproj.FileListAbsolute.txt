@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.pdb

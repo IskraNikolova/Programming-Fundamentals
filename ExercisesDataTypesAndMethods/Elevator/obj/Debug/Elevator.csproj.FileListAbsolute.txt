@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\Elevator\bin\Debug\Elevator.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\Elevator\bin\Debug\Elevator.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\Elevator\bin\Debug\Elevator.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\Elevator\obj\Debug\Elevator.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\Elevator\obj\Debug\Elevator.pdb

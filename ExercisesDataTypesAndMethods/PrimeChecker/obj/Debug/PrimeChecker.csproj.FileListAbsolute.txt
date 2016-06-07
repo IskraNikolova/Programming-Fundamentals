@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrimeChecker\bin\Debug\PrimeChecker.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrimeChecker\bin\Debug\PrimeChecker.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrimeChecker\obj\Debug\PrimeChecker.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrimeChecker\obj\Debug\PrimeChecker.pdb

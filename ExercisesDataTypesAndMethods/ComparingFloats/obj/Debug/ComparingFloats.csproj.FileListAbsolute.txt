@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ComparingFloats\bin\Debug\ComparingFloats.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ComparingFloats\bin\Debug\ComparingFloats.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ComparingFloats\obj\Debug\ComparingFloats.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ComparingFloats\obj\Debug\ComparingFloats.pdb

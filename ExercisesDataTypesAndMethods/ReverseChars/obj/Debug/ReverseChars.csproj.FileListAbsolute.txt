@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ReverseChars\bin\Debug\ReverseChars.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ReverseChars\bin\Debug\ReverseChars.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ReverseChars\bin\Debug\ReverseChars.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ReverseChars\obj\Debug\ReverseChars.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ReverseChars\obj\Debug\ReverseChars.pdb

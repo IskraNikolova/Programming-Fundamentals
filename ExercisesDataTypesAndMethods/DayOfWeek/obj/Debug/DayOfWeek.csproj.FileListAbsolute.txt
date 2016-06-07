@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DayOfWeek\bin\Debug\DayOfWeek.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DayOfWeek\bin\Debug\DayOfWeek.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DayOfWeek\obj\Debug\DayOfWeek.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DayOfWeek\obj\Debug\DayOfWeek.pdb

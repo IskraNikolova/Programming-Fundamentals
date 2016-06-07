@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\CountNumbers\bin\Debug\CountNumbers.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\CountNumbers\bin\Debug\CountNumbers.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\CountNumbers\bin\Debug\CountNumbers.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\CountNumbers\obj\Debug\CountNumbers.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\CountNumbers\obj\Debug\CountNumbers.pdb

@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb

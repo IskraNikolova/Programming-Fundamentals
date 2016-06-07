@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+E:\Softuni\ProgrammingFundamental\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+E:\Softuni\ProgrammingFundamental\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+E:\Softuni\ProgrammingFundamental\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+E:\Softuni\ProgrammingFundamental\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

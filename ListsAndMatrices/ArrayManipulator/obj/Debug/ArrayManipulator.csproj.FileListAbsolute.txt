@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

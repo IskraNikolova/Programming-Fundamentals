@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\Arrays\Pairs\bin\Debug\Pairs.exe.config
+E:\Softuni\ProgrammingFundamental\Arrays\Pairs\bin\Debug\Pairs.exe
+E:\Softuni\ProgrammingFundamental\Arrays\Pairs\bin\Debug\Pairs.pdb
+E:\Softuni\ProgrammingFundamental\Arrays\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\Arrays\Pairs\obj\Debug\Pairs.exe
+E:\Softuni\ProgrammingFundamental\Arrays\Pairs\obj\Debug\Pairs.pdb

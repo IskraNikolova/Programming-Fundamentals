@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\AppendLists\bin\Debug\AppendLists.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\AppendLists\bin\Debug\AppendLists.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\AppendLists\bin\Debug\AppendLists.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\AppendLists\obj\Debug\AppendLists.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\AppendLists\obj\Debug\AppendLists.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\AppendLists\obj\Debug\AppendLists.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\DiagonalDifference\obj\Debug\DiagonalDifference.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

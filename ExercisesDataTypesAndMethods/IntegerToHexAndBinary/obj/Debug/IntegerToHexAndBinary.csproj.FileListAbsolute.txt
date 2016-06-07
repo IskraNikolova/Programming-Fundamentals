@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.pdb

@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixGenerator\bin\Debug\MatrixGenerator.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixGenerator\bin\Debug\MatrixGenerator.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixGenerator\bin\Debug\MatrixGenerator.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixGenerator\obj\Debug\MatrixGenerator.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixGenerator\obj\Debug\MatrixGenerator.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixGenerator\obj\Debug\MatrixGenerator.csprojResolveAssemblyReference.cache

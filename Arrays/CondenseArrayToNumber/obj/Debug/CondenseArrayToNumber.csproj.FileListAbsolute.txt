@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
+E:\Softuni\ProgrammingFundamental\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe
+E:\Softuni\ProgrammingFundamental\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.pdb
+E:\Softuni\ProgrammingFundamental\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
+E:\Softuni\ProgrammingFundamental\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb

@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\BuildAMatrixOfLetters\bin\Debug\BuildAMatrixOfLetters.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\BuildAMatrixOfLetters\bin\Debug\BuildAMatrixOfLetters.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\BuildAMatrixOfLetters\bin\Debug\BuildAMatrixOfLetters.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\BuildAMatrixOfLetters\obj\Debug\BuildAMatrixOfLetters.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\BuildAMatrixOfLetters\obj\Debug\BuildAMatrixOfLetters.pdb

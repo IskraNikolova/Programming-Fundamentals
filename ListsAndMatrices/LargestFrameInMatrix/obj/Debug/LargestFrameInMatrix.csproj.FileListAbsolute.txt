@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LargestFrameInMatrix\bin\Debug\LargestFrameInMatrix.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LargestFrameInMatrix\obj\Debug\LargestFrameInMatrix.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LargestFrameInMatrix\bin\Debug\LargestFrameInMatrix.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LargestFrameInMatrix\bin\Debug\LargestFrameInMatrix.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LargestFrameInMatrix\obj\Debug\LargestFrameInMatrix.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LargestFrameInMatrix\obj\Debug\LargestFrameInMatrix.pdb

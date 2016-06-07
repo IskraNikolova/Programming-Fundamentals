@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumReversedNumbers\bin\Debug\SumReversedNumbers.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumReversedNumbers\obj\Debug\SumReversedNumbers.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SumReversedNumbers\obj\Debug\SumReversedNumbers.pdb

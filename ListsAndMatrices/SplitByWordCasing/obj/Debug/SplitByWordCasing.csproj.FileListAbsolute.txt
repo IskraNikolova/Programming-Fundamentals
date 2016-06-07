@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SplitByWordCasing\bin\Debug\SplitByWordCasing.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SplitByWordCasing\obj\Debug\SplitByWordCasing.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SplitByWordCasing\obj\Debug\SplitByWordCasing.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SplitByWordCasing\obj\Debug\SplitByWordCasing.pdb

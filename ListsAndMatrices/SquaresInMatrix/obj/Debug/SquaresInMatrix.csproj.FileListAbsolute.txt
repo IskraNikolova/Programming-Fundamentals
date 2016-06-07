@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquaresInMatrix\bin\Debug\SquaresInMatrix.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquaresInMatrix\bin\Debug\SquaresInMatrix.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquaresInMatrix\bin\Debug\SquaresInMatrix.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquaresInMatrix\obj\Debug\SquaresInMatrix.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquaresInMatrix\obj\Debug\SquaresInMatrix.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquaresInMatrix\obj\Debug\SquaresInMatrix.pdb

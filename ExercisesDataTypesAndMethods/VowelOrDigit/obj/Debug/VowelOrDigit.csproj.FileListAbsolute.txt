@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

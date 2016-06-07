@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\TriplesOfLetters\bin\Debug\TriplesOfLetters.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\TriplesOfLetters\obj\Debug\TriplesOfLetters.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\TriplesOfLetters\obj\Debug\TriplesOfLetters.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\TriplesOfLetters\obj\Debug\TriplesOfLetters.pdb

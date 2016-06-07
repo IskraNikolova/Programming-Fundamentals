@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxPlatform3X3\bin\Debug\MaxPlatform3X3.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxPlatform3X3\bin\Debug\MaxPlatform3X3.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxPlatform3X3\bin\Debug\MaxPlatform3X3.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxPlatform3X3\obj\Debug\MaxPlatform3X3.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxPlatform3X3\obj\Debug\MaxPlatform3X3.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MaxPlatform3X3\obj\Debug\MaxPlatform3X3.pdb

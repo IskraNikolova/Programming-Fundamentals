@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb

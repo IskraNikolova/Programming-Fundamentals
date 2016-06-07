@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\Arrays\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.exe.config
+E:\Softuni\ProgrammingFundamental\Arrays\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.exe
+E:\Softuni\ProgrammingFundamental\Arrays\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.pdb
+E:\Softuni\ProgrammingFundamental\Arrays\ReverseAnArrayOfStrings\obj\Debug\ReverseAnArrayOfStrings.exe
+E:\Softuni\ProgrammingFundamental\Arrays\ReverseAnArrayOfStrings\obj\Debug\ReverseAnArrayOfStrings.pdb

@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\EnglishNameOfTheLastDigit\obj\Debug\EnglishNameOfTheLastDigit.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\EnglishNameOfTheLastDigit\obj\Debug\EnglishNameOfTheLastDigit.pdb

@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

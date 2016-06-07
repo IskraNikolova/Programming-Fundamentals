@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\Tour\bin\Debug\Tour.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\Tour\bin\Debug\Tour.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\Tour\bin\Debug\Tour.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\Tour\obj\Debug\Tour.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\Tour\obj\Debug\Tour.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\Tour\obj\Debug\Tour.pdb

@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\Arrays\SumArrays\bin\Debug\SumArrays.exe.config
+E:\Softuni\ProgrammingFundamental\Arrays\SumArrays\bin\Debug\SumArrays.exe
+E:\Softuni\ProgrammingFundamental\Arrays\SumArrays\bin\Debug\SumArrays.pdb
+E:\Softuni\ProgrammingFundamental\Arrays\SumArrays\obj\Debug\SumArrays.exe
+E:\Softuni\ProgrammingFundamental\Arrays\SumArrays\obj\Debug\SumArrays.pdb

@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\MasterNumbers\bin\Debug\MasterNumbers.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\MasterNumbers\bin\Debug\MasterNumbers.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\MasterNumbers\obj\Debug\MasterNumbers.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\MasterNumbers\obj\Debug\MasterNumbers.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\MasterNumbers\obj\Debug\MasterNumbers.pdb

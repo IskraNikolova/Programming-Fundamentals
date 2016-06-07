@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.pdb

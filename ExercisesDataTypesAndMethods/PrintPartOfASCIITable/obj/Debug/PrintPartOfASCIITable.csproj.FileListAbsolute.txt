@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.pdb

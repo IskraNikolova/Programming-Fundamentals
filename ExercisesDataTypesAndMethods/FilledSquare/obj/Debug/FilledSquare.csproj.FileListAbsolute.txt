@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\FilledSquare\bin\Debug\FilledSquare.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\FilledSquare\bin\Debug\FilledSquare.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\FilledSquare\bin\Debug\FilledSquare.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\FilledSquare\obj\Debug\FilledSquare.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\FilledSquare\obj\Debug\FilledSquare.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\FilledSquare\obj\Debug\FilledSquare.pdb

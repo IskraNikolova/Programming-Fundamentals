@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+E:\Softuni\ProgrammingFundamental\Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+E:\Softuni\ProgrammingFundamental\Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+E:\Softuni\ProgrammingFundamental\Arrays\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+E:\Softuni\ProgrammingFundamental\Arrays\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

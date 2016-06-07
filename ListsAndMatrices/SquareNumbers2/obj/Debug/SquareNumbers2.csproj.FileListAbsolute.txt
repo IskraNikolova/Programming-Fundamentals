@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquareNumbers2\bin\Debug\SquareNumbers2.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquareNumbers2\bin\Debug\SquareNumbers2.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquareNumbers2\bin\Debug\SquareNumbers2.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquareNumbers2\obj\Debug\SquareNumbers2.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquareNumbers2\obj\Debug\SquareNumbers2.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\SquareNumbers2\obj\Debug\SquareNumbers2.pdb

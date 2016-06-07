@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\BooleanVariable\bin\Debug\BooleanVariable.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\BooleanVariable\bin\Debug\BooleanVariable.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\BooleanVariable\obj\Debug\BooleanVariable.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\BooleanVariable\obj\Debug\BooleanVariable.pdb

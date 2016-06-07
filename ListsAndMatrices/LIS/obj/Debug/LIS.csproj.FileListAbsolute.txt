@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LIS\bin\Debug\LIS.exe.config
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LIS\bin\Debug\LIS.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LIS\bin\Debug\LIS.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LIS\obj\Debug\LIS.exe
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LIS\obj\Debug\LIS.pdb
+E:\Softuni\ProgrammingFundamental\ListsAndMatrices\LIS\obj\Debug\LIS.csprojResolveAssemblyReference.cache

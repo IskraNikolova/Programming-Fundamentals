@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\HelloName\bin\Debug\HelloName.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\HelloName\bin\Debug\HelloName.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\HelloName\bin\Debug\HelloName.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\HelloName\obj\Debug\HelloName.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\HelloName\obj\Debug\HelloName.pdb

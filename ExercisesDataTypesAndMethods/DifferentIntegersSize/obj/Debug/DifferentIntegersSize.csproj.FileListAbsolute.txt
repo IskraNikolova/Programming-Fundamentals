@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb

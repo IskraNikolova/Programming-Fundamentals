@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb

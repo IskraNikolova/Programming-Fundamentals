@@ -1,0 +1,6 @@
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CircleArea12Digits Precision\bin\Debug\CircleArea12Digits Precision.exe.config
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CircleArea12Digits Precision\bin\Debug\CircleArea12Digits Precision.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CircleArea12Digits Precision\bin\Debug\CircleArea12Digits Precision.pdb
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CircleArea12Digits Precision\obj\Debug\CircleArea12Digits Precision.csprojResolveAssemblyReference.cache
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CircleArea12Digits Precision\obj\Debug\CircleArea12Digits Precision.exe
+E:\Softuni\ProgrammingFundamental\ExercisesDataTypesAndMethods\CircleArea12Digits Precision\obj\Debug\CircleArea12Digits Precision.pdb
