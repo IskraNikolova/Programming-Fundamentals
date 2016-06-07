@@ -14,7 +14,7 @@ namespace LIS
 
             var longestSequence = FindLongestIncreasingSubsequence(sequence);
 
-            Console.WriteLine(string.Join(", ", longestSequence));
+            Console.WriteLine(string.Join(" ", longestSequence));
         }
 
         public static int[] FindLongestIncreasingSubsequence(int[] sequence)
